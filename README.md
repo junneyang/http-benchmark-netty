@@ -1,4 +1,4 @@
-httpbenchmark
+http-benchmark-netty
 =============
 
 基于java netty的http客户端工具&amp;http高性能测试工具。满足一般性能测试、延迟测试、最大连接数测试、吞吐量测试、压力测试、长时间稳定性测试、内存泄漏测试等场景。    

@@ -1,0 +1,16 @@
+Requirements
+-----------------
+JAVA >= 1.6
+
+Usage
+-----------------
+Function Test    : Just type "java -jar httpclient.jar -h" for help.
+Benchmark Test   : Just type "java -jar httpbenchmark.jar -h" for help.
+
+Reminder
+-----------------
+This README is just a fast "quick start" document. You can find more detailed
+documentation at https://github.com/JunneYang/easysocketbenchmark.
+
+Enjoy!
+

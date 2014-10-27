@@ -1,0 +1,1 @@
+{"url": "/lbs/da/openservice", "data": {"request": {"header": {"secretkey": "pass", "subservice": "sub", "servicekey": "key1"}, "id_type": 2, "data_type": 100, "id": "3uiuiueiukjfdkj:FG=3"}, "method": "GetNuomiUserPreference", "service": "UserService"}, "method": "POST"}

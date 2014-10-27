@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Mon Oct 27 21:11:03 CST 2014
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=true
+jarname=D\:\\WorkSpace\\netty\\httpbenchmark.jar
+manifest.mergeall=true
+manifest.mainclass=httpclient.httpbenchmark
+manifest.file=<createnew>
+jarname.isextern=true
+onejar.expand=
+excludes=<jar|protobuf-java-2.6.0.jar>
+includes=

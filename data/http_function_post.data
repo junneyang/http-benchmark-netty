@@ -1,0 +1,18 @@
+{
+	"method" : "POST",
+	"url" : "/lbs/da/openservice",
+	"data" : {
+		"service": "UserService",
+		"method": "GetNuomiUserPreference",
+		"request": {
+			"header": {
+					"subservice":"sub",
+					"secretkey": "pass",
+					"servicekey": "key1"
+			},
+			"id_type":2,
+			"id":"3uiuiueiukjfdkj:FG=3",
+			"data_type":100
+		}
+	}
+}

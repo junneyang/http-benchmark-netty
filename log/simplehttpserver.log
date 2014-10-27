@@ -1,0 +1,10 @@
+16:33:45.039 INFO  httpclient.asynchttpserver 51 start - httpclient.asynchttpserver started and listen on /0.0.0.0:4444
+16:35:25.217 INFO  httpclient.asynchttpserver 51 start - httpclient.asynchttpserver started and listen on /0.0.0.0:4444
+16:35:49.757 INFO  httpclient.asynchttpserver 51 start - httpclient.asynchttpserver started and listen on /0.0.0.0:8000
+16:36:33.600 DEBUG httpclient.asynchttpserverhandler 29 channelActive - remote address : /127.0.0.1:60547 active
+16:36:33.614 DEBUG httpclient.asynchttpserverhandler 42 channelRead - cnt : {"service":"UserService","method":"GetNuomiUserPreference","request":{"header":{"subservice":"sub","secretkey":"pass","servicekey":"key1"},"id_type":2,"id":"3uiuiueiukjfdkj:FG=3","data_type":100}}
+16:36:33.634 DEBUG httpclient.asynchttpserverhandler 63 channelInactive - remote address : /127.0.0.1:60547 inactive
+16:38:17.151 INFO  httpclient.asynchttpserver 51 start - httpclient.asynchttpserver started and listen on /0.0.0.0:8000
+18:29:23.268 INFO  httpclient.asynchttpserver 51 start - httpclient.asynchttpserver started and listen on /0.0.0.0:4444
+18:29:46.352 INFO  httpclient.asynchttpserver 51 start - httpclient.asynchttpserver started and listen on /0.0.0.0:4444
+18:30:02.933 INFO  httpclient.asynchttpserver 51 start - httpclient.asynchttpserver started and listen on /0.0.0.0:8000

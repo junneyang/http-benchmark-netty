@@ -1,0 +1,39 @@
+{
+	"method" : "POST",
+	"data" : [
+		{
+			"url": "/lbs/da/openservice",
+			"body":{
+				"service": "ItemService",
+				"method": "GetItemsByItem",
+				"request": {
+				"header": {
+						"subservice":"sub",
+						"secretkey": "pass",
+						"servicekey": "key1"
+				},
+				"algorithmId": "topic_rev_poi",
+				"item_ids": ["9977193541978760286"]
+				}
+			},
+			"expect": {"response":{"items":[{"id":"18012202574307917823","value":[0.300000,0.500000,0.400000],"str_value":[]},{"id":"12313225205891489106","value":[1.000000],"str_value":[]},{"id":"18119621412888245380","value":[0.700000],"str_value":[]},{"id":"2071168565446484381","value":[0.300000],"str_value":[]},{"id":"11710154692952313709","value":[0.300000],"str_value":[]}],"args":[]},"service":"ItemService","method":"GetItemsByItem"}
+		},
+		{
+			"url": "/lbs/da/openservice",
+			"body":{
+				"service": "ItemService",
+				"method": "GetItemsByItem",
+				"request": {
+				"header": {
+						"subservice":"sub",
+						"secretkey": "pass",
+						"servicekey": "key1"
+				},
+				"algorithmId": "topic_rev_poi",
+				"item_ids": ["9977193541978760286"]
+				}
+			},
+			"expect": {"response":{"items":[{"id":"18012202574307917823","value":[0.300000,0.500000,0.400000],"str_value":[]},{"id":"12313225205891489106","value":[1.000000],"str_value":[]},{"id":"18119621412888245380","value":[0.700000],"str_value":[]},{"id":"2071168565446484381","value":[0.300000],"str_value":[]},{"id":"11710154692952313709","value":[0.300000],"str_value":[]}],"args":[]},"service":"ItemService","method":"GetItemsByItem"}
+		}
+	]
+}

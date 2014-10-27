@@ -1,0 +1,41 @@
+{
+	"method" : "POST",
+	"data" : [
+		{
+			"url": "/lbs/da/openservice",
+			"body":{
+				"service": "UserService",
+				"method": "GetNuomiUserPreference",
+				"request": {
+					"header": {
+							"subservice":"sub",
+							"secretkey": "pass",
+							"servicekey": "key1"
+					},
+					"id_type":2,
+					"id":"3uiuiueiukjfdkj:FG=3",
+					"data_type":100
+				}
+			},
+			"expect": {"response":{"features":[{"feature_name":"cat6","score_info":{"featureid":"326","score":2.340000},"data_type":1},{"feature_name":"cat6","score_info":{"featureid":"330","score":4.270000},"data_type":1},{"feature_name":"cat5","score_info":{"featureid":"330","score":4.250000},"data_type":1},{"feature_name":"cat5","score_info":{"featureid":"326","score":2.340000},"data_type":1}],"result_type":100,"other_infos":[],"item_infos":[{"id":"1241844","score":5.000000,"info":"bn_buy_pc","date":"20140819"}]},"service":"UserService","method":"GetNuomiUserPreference"}
+		},
+		{
+			"url": "/lbs/da/openservice",
+			"body":{
+				"service": "UserService",
+				"method": "GetNuomiUserPreference",
+				"request": {
+					"header": {
+							"subservice":"sub",
+							"secretkey": "pass",
+							"servicekey": "key1"
+					},
+					"id_type":2,
+					"id":"3uiuiueiukjfdkj:FG=3",
+					"data_type":100
+				}
+			},
+			"expect": {"response":{"features":[{"feature_name":"cat6","score_info":{"featureid":"326","score":2.340000},"data_type":1},{"feature_name":"cat6","score_info":{"featureid":"330","score":4.270000},"data_type":1},{"feature_name":"cat5","score_info":{"featureid":"330","score":4.250000},"data_type":1},{"feature_name":"cat5","score_info":{"featureid":"326","score":2.340000},"data_type":1}],"result_type":100,"other_infos":[],"item_infos":[{"id":"1241844","score":5.000000,"info":"bn_buy_pc","date":"20140819"}]},"service":"UserService","method":"GetNuomiUserPreference"}
+		}
+	]
+}

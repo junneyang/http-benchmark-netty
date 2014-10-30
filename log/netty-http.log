@@ -106,3 +106,9 @@
 15:57:00.582 INFO  httpclient.HttpClient 79 main - httpclient start
 15:57:00.584 INFO  httpclient.HttpClient 88 main - httpclient help info
 15:57:00.585 INFO  httpclient.HttpClient 89 main - httpclient complete
+15:58:47.681 INFO  httpclient.HttpBenchmark 43 main - httpbenchmark start
+15:58:47.684 INFO  httpclient.HttpBenchmark 70 main - httpbenchmark help info
+15:58:47.684 INFO  httpclient.HttpBenchmark 71 main - httpbenchmark complete
+15:58:52.811 INFO  httpclient.HttpClient 79 main - httpclient start
+15:58:52.813 INFO  httpclient.HttpClient 88 main - httpclient help info
+15:58:52.813 INFO  httpclient.HttpClient 89 main - httpclient complete

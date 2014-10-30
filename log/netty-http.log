@@ -100,3 +100,9 @@
 10:09:31.525 INFO  httpclient.HttpClientHandler 45 channelRead - client read complete ...
 10:09:31.586 INFO  httpclient.HttpClientHandler 53 channelInactive - client inactive ...
 10:09:31.587 INFO  httpclient.HttpClient 116 main - httpclient complete
+15:56:52.630 INFO  httpclient.HttpBenchmark 43 main - httpbenchmark start
+15:56:52.633 INFO  httpclient.HttpBenchmark 70 main - httpbenchmark help info
+15:56:52.633 INFO  httpclient.HttpBenchmark 71 main - httpbenchmark complete
+15:57:00.582 INFO  httpclient.HttpClient 79 main - httpclient start
+15:57:00.584 INFO  httpclient.HttpClient 88 main - httpclient help info
+15:57:00.585 INFO  httpclient.HttpClient 89 main - httpclient complete

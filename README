@@ -10,7 +10,7 @@ Benchmark Test   : Just type "java -jar httpbenchmark.jar -h" for help.
 Reminder
 -----------------
 This README is just a fast "quick start" document. You can find more detailed
-documentation at https://github.com/JunneYang/easysocketbenchmark.
+documentation at https://github.com/junneyang/http-benchmark-netty.
 
 Enjoy!
 

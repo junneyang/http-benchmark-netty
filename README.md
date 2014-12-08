@@ -14,7 +14,3 @@ http-benchmark-netty
 * 详见README。
 * 测试报告截图：    
 ![image](scrshot/mail.png)     
-
-
-
-
